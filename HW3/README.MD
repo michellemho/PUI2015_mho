@@ -4,4 +4,6 @@ Assignment 1 is in '100 Distributions'
 - I made 600 samples of different sizes for different distributions
 
 Assignment 2 is in 'Assignment 2'
-- I tested two hypothesises about post-prison employment
+- I tested two hypotheses about post-prison employment
+
+Consulted with: Nate Weber, Daynan Crull, Maria Ortiz
